@@ -14,7 +14,7 @@ const Login = () => {
       setError('Please enter correct details!');
     } else {
       // TODO: Send signup request to server
-      setError('Login successful');
+      setError('Login successfullllll');
       setEmail('');
       setPassword('');
     }
